@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>48D8DA5D-D692-4CD7-B4A1-5BF3F021C6F2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>48D8DA5D-D692-4CD7-B4A1-5BF3F021C6F2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575461404.61860597</real>
+			<key>timeStoppedRecording</key>
+			<real>575461432.23405099</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>48D8DA5D-D692-4CD7-B4A1-5BF3F021C6F2</string>
+		</dict>
+		<key>53B3A5F8-3395-490C-BC7B-8B1CF0D235DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>53B3A5F8-3395-490C-BC7B-8B1CF0D235DA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575461599.18584895</real>
+			<key>timeStoppedRecording</key>
+			<real>575461621.63396502</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>53B3A5F8-3395-490C-BC7B-8B1CF0D235DA</string>
+		</dict>
+		<key>81F4FC95-3784-4DCB-9C22-C114F0A84456</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>81F4FC95-3784-4DCB-9C22-C114F0A84456.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575461875.63529396</real>
+			<key>timeStoppedRecording</key>
+			<real>575461902.47339106</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>81F4FC95-3784-4DCB-9C22-C114F0A84456</string>
+		</dict>
+		<key>8412740F-8916-4EE7-901A-62C3160BD66A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8412740F-8916-4EE7-901A-62C3160BD66A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575459722.973351</real>
+			<key>timeStoppedRecording</key>
+			<real>575459768.16384006</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>8412740F-8916-4EE7-901A-62C3160BD66A</string>
+		</dict>
+		<key>88A11F7A-DC4B-4AAF-B70C-EE2D08B850DF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>88A11F7A-DC4B-4AAF-B70C-EE2D08B850DF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575459982.64042902</real>
+			<key>timeStoppedRecording</key>
+			<real>575460002.456249</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>88A11F7A-DC4B-4AAF-B70C-EE2D08B850DF</string>
+		</dict>
+		<key>CDEEAA1F-B23B-459F-95BC-74B26542AA94</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CDEEAA1F-B23B-459F-95BC-74B26542AA94.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575461708.76587296</real>
+			<key>timeStoppedRecording</key>
+			<real>575461737.13792205</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>CDEEAA1F-B23B-459F-95BC-74B26542AA94</string>
+		</dict>
+		<key>D020FA74-F959-4E40-95B1-1004BCD71F4E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D020FA74-F959-4E40-95B1-1004BCD71F4E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>socialsharing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>socialsharing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug socialsharing</string>
+			<key>timeStartedRecording</key>
+			<real>575461823.59680402</real>
+			<key>timeStoppedRecording</key>
+			<real>575461851.41198099</real>
+			<key>title</key>
+			<string>Debug socialsharing</string>
+			<key>uniqueIdentifier</key>
+			<string>D020FA74-F959-4E40-95B1-1004BCD71F4E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
